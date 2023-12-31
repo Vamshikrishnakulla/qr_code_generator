@@ -1,3 +1,7 @@
+#custome files to add to ignore list
+*.txt
+*.png 
+
 # Logs
 logs
 *.log
